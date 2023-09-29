@@ -7,10 +7,10 @@ The usuario microservice provides the following functionalities:
 - User Register
 
 The following scripts are provided for the MongoDB database/collections creation:
-usuariodb_creation.js
-estado_collection.js
-tipo_domicilio_collection.js
-load_collections_data.js
+* usuariodb_creation.js
+* estado_collection.js
+* tipo_domicilio_collection.js
+* load_collections_data.js
 
 
 ## Deploy
