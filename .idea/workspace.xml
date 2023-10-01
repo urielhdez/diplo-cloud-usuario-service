@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9050029-e3c9-4709-adf7-519601d303d0" name="Changes" comment="" />
+    <list default="true" id="a9050029-e3c9-4709-adf7-519601d303d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dockerfile-app",
     "last_opened_file_path": "/Users/alfonsogregorioriveroduarte/Downloads/diplo-cloud-usuario-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,6 +62,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="usuario-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="usuario-service" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UsuarioServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <envs>
         <env name="MONGO_AUTHDB" value="unam" />
@@ -115,6 +132,8 @@
       <workItem from="1695628125896" duration="1652000" />
       <workItem from="1695765103535" duration="575000" />
       <workItem from="1696120185493" duration="9790000" />
+      <workItem from="1696134834605" duration="336000" />
+      <workItem from="1696135521708" duration="28000" />
     </task>
     <servers />
   </component>
